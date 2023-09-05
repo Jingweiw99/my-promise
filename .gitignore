@@ -1,0 +1,12 @@
+node_modules
+
+# Editor directories and files
+.idea
+.vscode
+.svn
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
